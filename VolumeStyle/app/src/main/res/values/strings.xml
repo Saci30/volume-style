@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تحكم الصوت الزجاجي</string>
+    <string name="enable_service">تفعيل صلاحية Accessibility</string>
+    <string name="status_enabled">✅ الخدمة مفعّلة — جرّب أزرار الصوت الآن</string>
+    <string name="status_disabled">⚠️ الخدمة غير مفعّلة. اضغط الزر أدناه، ثم فعّل "تحكم الصوت الزجاجي" من القائمة.</string>
+    <string name="accessibility_service_description">تستخدم هذه الخدمة صلاحية Accessibility لاعتراض أزرار الصوت فقط، وعرض شريط صوت مخصص بدلاً من شريط النظام الافتراضي. لا تقرأ أي محتوى آخر على الشاشة.</string>
+</resources>

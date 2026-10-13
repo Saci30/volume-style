@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="12dp">
+
+    <!-- مسار الشريط -->
+    <View
+        android:id="@+id/trackView"
+        android:layout_width="10dp"
+        android:layout_height="170dp"
+        android:background="@drawable/track_glass_bg" />
+
+    <!-- التعبئة - ترتفع من الأسفل حسب مستوى الصوت -->
+    <View
+        android:id="@+id/fillView"
+        android:layout_width="10dp"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/fill_glass_bg" />
+
+</FrameLayout>
